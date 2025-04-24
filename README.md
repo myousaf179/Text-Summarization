@@ -54,7 +54,8 @@ This repository contains a Jupyter Notebook that implements a text summarization
     torch
     tensorflow
     rouge-score
-    openpyxl    ```
+    openpyxl   
+    ```
 4. **Run the Notebook**  
    - Open `text_summarizer.ipynb` in Jupyter or Google Colab.  
    - Execute cells in order.  
