@@ -43,7 +43,8 @@ This repository contains a Jupyter Notebook that implements a text summarization
    git clone https://github.com/your-username/psych-text-summarization.git
    cd psych-text-summarization
    ```
-2. **Install dependencies**  
+2. **Install dependencies**
+    ```bash
     numpy
     pandas
     beautifulsoup4
@@ -53,8 +54,8 @@ This repository contains a Jupyter Notebook that implements a text summarization
     torch
     tensorflow
     rouge-score
-    openpyxl
-3. **Run the Notebook**  
+    openpyxl    ```
+4. **Run the Notebook**  
    - Open `text_summarizer.ipynb` in Jupyter or Google Colab.  
    - Execute cells in order.  
    - When prompted, mount Google Drive to save the trained model.
