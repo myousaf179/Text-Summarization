@@ -44,9 +44,16 @@ This repository contains a Jupyter Notebook that implements a text summarization
    cd psych-text-summarization
    ```
 2. **Install dependencies**  
-   ```bash
-   pip install -r requirements.txt
-   ```
+    numpy
+    pandas
+    beautifulsoup4
+    scikit-learn
+    nltk
+    transformers
+    torch
+    tensorflow
+    rouge-score
+    openpyxl
 3. **Run the Notebook**  
    - Open `text_summarizer.ipynb` in Jupyter or Google Colab.  
    - Execute cells in order.  
